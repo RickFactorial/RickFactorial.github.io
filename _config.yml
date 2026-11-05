@@ -1,0 +1,5 @@
+title: Mi blog
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: null
